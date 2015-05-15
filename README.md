@@ -9,7 +9,7 @@ geoloader.go is a simple, fast, package for uploading spatial data to
 
 * Install the geoloader binary in to your `$GOPATH`
 
-  $ go get github.com/waynegraham/go-geoloader
+  $ go get github.com/waynegraham/geoloader
 
 * Run `geoloader`
 
